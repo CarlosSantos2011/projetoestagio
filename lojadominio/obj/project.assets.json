@@ -5824,11 +5824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stag005\\estagiogithub\\estagio\\projeto\\Loja\\lojadominio\\Loja.Sys.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\stag005\\Desktop\\projeto\\lojadominio\\Loja.Sys.Dominio.csproj",
       "projectName": "Loja.Sys.Dominio",
-      "projectPath": "C:\\Users\\stag005\\estagiogithub\\estagio\\projeto\\Loja\\lojadominio\\Loja.Sys.Dominio.csproj",
+      "projectPath": "C:\\Users\\stag005\\Desktop\\projeto\\lojadominio\\Loja.Sys.Dominio.csproj",
       "packagesPath": "C:\\Users\\stag005\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stag005\\estagiogithub\\estagio\\projeto\\Loja\\lojadominio\\obj\\",
+      "outputPath": "C:\\Users\\stag005\\Desktop\\projeto\\lojadominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
