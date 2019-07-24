@@ -7,6 +7,7 @@ namespace WebLoja2.Models
 {
     public class Endereco
     {
+        public int Id { get; set; }
         public string Logradouro { get;  set; }
         public string NomeLogradouro { get;  set; }
         public double Numero { get;  set; }

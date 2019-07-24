@@ -238,9 +238,17 @@
     <Compile Include="Migrations\20190723113652_Inicial.designer.cs">
       <DependentUpon>20190723113652_Inicial.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\20190723115126_TabelaCliente.cs" />
-    <Compile Include="Migrations\20190723115126_TabelaCliente.designer.cs">
-      <DependentUpon>20190723115126_TabelaCliente.cs</DependentUpon>
+    <Compile Include="Migrations\20190724141818_tbo.endereco.cs" />
+    <Compile Include="Migrations\20190724141818_tbo.endereco.designer.cs">
+      <DependentUpon>20190724141818_tbo.endereco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20190724142247_tbo.contatos.cs" />
+    <Compile Include="Migrations\20190724142247_tbo.contatos.designer.cs">
+      <DependentUpon>20190724142247_tbo.contatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20190724143014_tbo.produtos.cs" />
+    <Compile Include="Migrations\20190724143014_tbo.produtos.designer.cs">
+      <DependentUpon>20190724143014_tbo.produtos.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\LojaContextModelSnapshot.cs" />
     <Compile Include="Models\Clientes.cs" />

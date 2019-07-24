@@ -7,11 +7,11 @@ namespace WebLoja2.Models
 {
    
         public class Contatos
-        {
-            private string Residencial { get; set; }
-            private string Celular { get; set; }
-            private string Comercial { get; set; }
-            private string Email { get; set; }
+        {   public int Id { get; private set; }
+            public string Residencial { get; set; }
+            public string Celular { get; set; }
+            public string Comercial { get; set; }
+            public string Email { get; set; }
 
         }
     

@@ -9,7 +9,7 @@ namespace WebLoja2.Models
     {
 
         public string Cpf { get;  set; }
-        public  Pessoa Pessoa { get; set; }
+        public virtual Pessoa Pessoa { get; set; }
         public int PessoaId { get; set; }
         public Clientes(string nome, int id, string cpf)
         {

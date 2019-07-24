@@ -8,9 +8,10 @@ using WebLoja2.Context;
 namespace WebLoja2.Migrations
 {
     [DbContext(typeof(LojaContext))]
-    partial class LojaContextModelSnapshot : ModelSnapshot
+    [Migration("20190724142247_tbo.contatos")]
+    partial class tbocontatos
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.2")
@@ -56,30 +57,6 @@ namespace WebLoja2.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Endereços");
-                });
-
-            modelBuilder.Entity("WebLoja2.Models.Produtos", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd();
-
-                    b.Property<string>("Descricao");
-
-                    b.Property<string>("Modelo");
-
-                    b.Property<string>("Nome");
-
-                    b.Property<int>("Quantidade");
-
-                    b.Property<int>("TempoGarantia");
-
-                    b.Property<int>("Tipo");
-
-                    b.Property<float>("Valor");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Produtos");
                 });
         }
     }

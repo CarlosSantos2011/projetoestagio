@@ -12,10 +12,9 @@ namespace WebLoja2.Context
     public class LojaContext : DbContext
     {     
        
-        public DbSet <Pessoa> Pessoas { get; set; }
-        public DbSet <Clientes> Clientes { get; set; }
-
-
+        public DbSet <Endereco> Endereços { get; set; }
+        public DbSet <Contatos> Contatos { get; set; }
+        public DbSet<Produtos> Produtos { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
