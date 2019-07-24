@@ -7,7 +7,11 @@ namespace WebLoja2.Models
 {
     public class Estoque
     {
+<<<<<<< HEAD
         public Produto Produtos { get;  set; }
+=======
+        public Produtos Produtos { get;  set; }
+>>>>>>> 30866b005970f756765ff9136656d50e9d9573a5
         public Compra Compra { get;  set; }
         public Venda Venda { get;  set; }
         public int Saida { get;  set; }
@@ -15,7 +19,11 @@ namespace WebLoja2.Models
         public bool Garantia { get;  set; }
         public string TipoMovimentacao { get;  set; }
 
+<<<<<<< HEAD
         public Estoque(Produto produto, Compra compra, Venda venda, int saida, int entrada, bool garantia, string tipoMovimentacao)
+=======
+        public Estoque(Produtos produto, Compra compra, Venda venda, int saida, int entrada, bool garantia, string tipoMovimentacao)
+>>>>>>> 30866b005970f756765ff9136656d50e9d9573a5
 
         {
             produto = Produtos;

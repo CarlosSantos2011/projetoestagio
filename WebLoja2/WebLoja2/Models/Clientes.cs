@@ -19,7 +19,11 @@ namespace WebLoja2.Models
         }
         public void Compra()
         {
+<<<<<<< HEAD
             Produto novaCompra = new Produto();
+=======
+            Produtos novaCompra = new Produtos();
+>>>>>>> 30866b005970f756765ff9136656d50e9d9573a5
 
         }
 

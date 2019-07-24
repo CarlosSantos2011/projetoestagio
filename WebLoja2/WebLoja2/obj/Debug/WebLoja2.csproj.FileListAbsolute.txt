@@ -280,6 +280,7 @@ C:\Users\stag005\Desktop\projeto\WebLoja2\WebLoja2\obj\Debug\WebLoja2.csproj.Cor
 C:\Users\stag005\Desktop\projeto\WebLoja2\WebLoja2\obj\Debug\WebLoja2.csproj.CopyComplete
 C:\Users\stag005\Desktop\projeto\WebLoja2\WebLoja2\obj\Debug\WebLoja2.dll
 C:\Users\stag005\Desktop\projeto\WebLoja2\WebLoja2\obj\Debug\WebLoja2.pdb
+<<<<<<< HEAD
 C:\Users\Game Room\Desktop\projetobenner\projetoestagio\WebLoja2\WebLoja2\bin\WebLoja2.dll.config
 C:\Users\Game Room\Desktop\projetobenner\projetoestagio\WebLoja2\WebLoja2\bin\WebLoja2.dll
 C:\Users\Game Room\Desktop\projetobenner\projetoestagio\WebLoja2\WebLoja2\bin\WebLoja2.pdb
@@ -421,3 +422,5 @@ C:\Users\Game Room\Desktop\projetobenner\projetoestagio\WebLoja2\WebLoja2\obj\De
 C:\Users\Game Room\Desktop\projetobenner\projetoestagio\WebLoja2\WebLoja2\obj\Debug\WebLoja2.csproj.CopyComplete
 C:\Users\Game Room\Desktop\projetobenner\projetoestagio\WebLoja2\WebLoja2\obj\Debug\WebLoja2.dll
 C:\Users\Game Room\Desktop\projetobenner\projetoestagio\WebLoja2\WebLoja2\obj\Debug\WebLoja2.pdb
+=======
+>>>>>>> 30866b005970f756765ff9136656d50e9d9573a5

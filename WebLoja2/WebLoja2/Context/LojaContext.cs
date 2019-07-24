@@ -14,7 +14,11 @@ namespace WebLoja2.Context
        
         public DbSet <Endereco> Endereços { get; set; }
         public DbSet <Contatos> Contatos { get; set; }
+<<<<<<< HEAD
         public DbSet<Produto> Produto { get; set; }
+=======
+        public DbSet<Produtos> Produtos { get; set; }
+>>>>>>> 30866b005970f756765ff9136656d50e9d9573a5
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

@@ -224,22 +224,47 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Context\LojaContext.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+<<<<<<< HEAD
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\PessoaController.cs" />
     <Compile Include="Controllers\ProdutoController.cs" />
+=======
+    <Compile Include="Controllers\PessoaController.cs" />
+>>>>>>> 30866b005970f756765ff9136656d50e9d9573a5
     <Compile Include="DAO\ClientesDAO.cs" />
     <Compile Include="DAO\CompraDAO.cs" />
     <Compile Include="DAO\EstoqueContext.cs" />
     <Compile Include="DAO\FuncionariosDAO.cs" />
     <Compile Include="DAO\PessoaDAO.cs" />
+<<<<<<< HEAD
     <Compile Include="DAO\ProdutosDAO.cs" />
+=======
+>>>>>>> 30866b005970f756765ff9136656d50e9d9573a5
     <Compile Include="DAO\VendaDAO.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Migrations\20190724174756_inicial.cs" />
     <Compile Include="Migrations\20190724174756_inicial.designer.cs">
       <DependentUpon>20190724174756_inicial.cs</DependentUpon>
+=======
+    <Compile Include="Migrations\20190723113652_Inicial.cs" />
+    <Compile Include="Migrations\20190723113652_Inicial.designer.cs">
+      <DependentUpon>20190723113652_Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20190724141818_tbo.endereco.cs" />
+    <Compile Include="Migrations\20190724141818_tbo.endereco.designer.cs">
+      <DependentUpon>20190724141818_tbo.endereco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20190724142247_tbo.contatos.cs" />
+    <Compile Include="Migrations\20190724142247_tbo.contatos.designer.cs">
+      <DependentUpon>20190724142247_tbo.contatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20190724143014_tbo.produtos.cs" />
+    <Compile Include="Migrations\20190724143014_tbo.produtos.designer.cs">
+      <DependentUpon>20190724143014_tbo.produtos.cs</DependentUpon>
+>>>>>>> 30866b005970f756765ff9136656d50e9d9573a5
     </Compile>
     <Compile Include="Migrations\LojaContextModelSnapshot.cs" />
     <Compile Include="Models\Clientes.cs" />
@@ -251,7 +276,11 @@
     <Compile Include="Models\Fornecedor.cs" />
     <Compile Include="Models\Funcionario.cs" />
     <Compile Include="Models\Pessoa.cs" />
+<<<<<<< HEAD
     <Compile Include="Models\Produto.cs" />
+=======
+    <Compile Include="Models\Produtos.cs" />
+>>>>>>> 30866b005970f756765ff9136656d50e9d9573a5
     <Compile Include="Models\Venda.cs" />
     <Compile Include="Models\VendaItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -263,11 +292,17 @@
     <None Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Pessoa\Index.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Produto\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Login\" />
+=======
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+>>>>>>> 30866b005970f756765ff9136656d50e9d9573a5
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
