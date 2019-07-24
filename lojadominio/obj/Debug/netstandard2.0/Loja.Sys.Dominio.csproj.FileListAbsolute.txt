@@ -1,9 +1,0 @@
-C:\Users\stag005\estagiogithub\estagio\projeto\Loja\lojadominio\bin\Debug\netstandard2.0\Loja.Sys.Dominio.deps.json
-C:\Users\stag005\estagiogithub\estagio\projeto\Loja\lojadominio\bin\Debug\netstandard2.0\Loja.Sys.Dominio.dll
-C:\Users\stag005\estagiogithub\estagio\projeto\Loja\lojadominio\bin\Debug\netstandard2.0\Loja.Sys.Dominio.pdb
-C:\Users\stag005\estagiogithub\estagio\projeto\Loja\lojadominio\obj\Debug\netstandard2.0\Loja.Sys.Dominio.csprojAssemblyReference.cache
-C:\Users\stag005\estagiogithub\estagio\projeto\Loja\lojadominio\obj\Debug\netstandard2.0\Loja.Sys.Dominio.csproj.CoreCompileInputs.cache
-C:\Users\stag005\estagiogithub\estagio\projeto\Loja\lojadominio\obj\Debug\netstandard2.0\Loja.Sys.Dominio.AssemblyInfoInputs.cache
-C:\Users\stag005\estagiogithub\estagio\projeto\Loja\lojadominio\obj\Debug\netstandard2.0\Loja.Sys.Dominio.AssemblyInfo.cs
-C:\Users\stag005\estagiogithub\estagio\projeto\Loja\lojadominio\obj\Debug\netstandard2.0\Loja.Sys.Dominio.dll
-C:\Users\stag005\estagiogithub\estagio\projeto\Loja\lojadominio\obj\Debug\netstandard2.0\Loja.Sys.Dominio.pdb
